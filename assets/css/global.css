@@ -1,0 +1,17 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+:root{
+  --background-header:#377D;
+  --background-footer:#023859;
+  --bakcground-section:#c9eef2;
+  --color-title:#fec3a3;
+  --font-color:#eee;
+}
+
+nav{
+  background-color: var(--background-header);
+}
